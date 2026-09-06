@@ -1,0 +1,6 @@
+{
+  "name": "Vani - AI Voice Learning Tutor",
+  "description": "Multi-model Socratic voice tutor powered by Claude Opus 5 (Azure Anthropic Foundry), Google Gemini, and Twilio Voice telephony.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
